@@ -4,7 +4,8 @@ const messages = [
     "Stay positive and keep going.",
     "Believe in yourself!",
     "JavaScript makes the web fun!",
-    "Success is the best revenge."
+    "Success is the best revenge.",
+    "You are the best!"
 ];
 
 // Function to generate a random message
